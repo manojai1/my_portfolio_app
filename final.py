@@ -320,6 +320,10 @@ elif page == "🚀 Projects":
         <div class="glass-card-title">8️⃣ Gemini invoice assistant</div>
         <div class="glass-card-text">An AI-powered assistant that lets users upload invoices and ask questions directly. Built using Google Gemini to extract, understand, and summarize invoice data.</div>
     </div>
+    <div class="glass-card">
+        <div class="glass-card-title">9️⃣ Gemini Text to SQL Query</div>
+        <div class="glass-card-text">An AI-powered app that lets users ask natural language questions and automatically generates and executes SQL queries on the database.</div>
+    </div>
     """, unsafe_allow_html=True)
 
 elif page == "🛠 Skills":
