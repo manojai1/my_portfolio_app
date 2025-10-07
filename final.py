@@ -316,6 +316,10 @@ elif page == "🚀 Projects":
         <div class="glass-card-title">7️⃣ Generate text the by using Transformers</div>
         <div class="glass-card-text">Implemented a text generation system using Transformer-based models to create coherent and context-aware sentences. Leveraged Hugging Face models to fine-tune and generate human-like text for various applications.</div>
     </div>
+    <div class="glass-card">
+        <div class="glass-card-title">1️⃣ Gemini invoice assistant</div>
+        <div class="glass-card-text">An AI-powered assistant that lets users upload invoices and ask questions directly. Built using Google Gemini to extract, understand, and summarize invoice data.</div>
+    </div>
     """, unsafe_allow_html=True)
 
 elif page == "🛠 Skills":
