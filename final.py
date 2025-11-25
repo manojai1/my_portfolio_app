@@ -14,7 +14,7 @@ with open("Backgraound.jpg", "rb") as f:
 background_b64 = base64.b64encode(data).decode()
 
 # --- PROFILE PHOTO ---
-with open("Pphoto.jpg", "rb") as f:
+with open("manoj_ph.jpg", "rb") as f:
     photo_data = f.read()
 photo_b64 = base64.b64encode(photo_data).decode()
 
